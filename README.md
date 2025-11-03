@@ -19,10 +19,10 @@ I'm always looking for new learning opportunities and open to connecting with ot
 
 ## 📫 Find me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-mohamed318)  
-[![Email](https://img.shields.io/badge/Email-ahmedmohamed00318%40gmail.com-red?style=flat&logo=gmail)](mailto:ahmedmohamed00318@gmail.com)  
-[![X (Twitter)](https://img.shields.io/badge/X-@ahmed318__-black?style=flat&logo=x)](https://x.com/ahmed318_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-mohamed318)  
+[![Email](https://img.shields.io/badge/Email-ahmedmohamed00318%40gmail.com-red?style=flat&logo=gmail)](mailto:ahmedmohamed00318@gmail.com)  
+[![X (Twitter)](https://img.shields.io/badge/X-@ahmed318__-black?style=flat&logo=x)](https://x.com/ahmed318_)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-ahmed44mohamed-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/ahmed44mohamed/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-_ahmed_mohamed-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/_ahmed_mohamed)
 
 ---
-
-⭐️ From [Ahmed Mohamed](https://github.com/ahmedmohamed318)
