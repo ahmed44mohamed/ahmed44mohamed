@@ -22,19 +22,7 @@ I'm always looking for new learning opportunities and open to connecting with ot
 
 ---
 
-## 📊 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedmohamed318&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmohamed318&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=ahmedmohamed318&theme=onedark&no-frame=true&margin-w=10)
-
----
-
-## 📫 Connect with Me
+## 📫 Find me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-mohamed318)  
 [![Email](https://img.shields.io/badge/Email-ahmedmohamed00318%40gmail.com-red?style=flat&logo=gmail)](mailto:ahmedmohamed00318@gmail.com)  
