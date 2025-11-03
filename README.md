@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Mohamed 😄
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Ahmed%20Mohamed%20|%20AI%20Engineer&fontSize=35&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Artificial%20Intelligence%20Student&fontSize=35&fontColor=ffffff)
 
 ## About Me 😃
 An artificial intelligence student.
