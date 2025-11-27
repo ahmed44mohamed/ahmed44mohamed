@@ -5,9 +5,9 @@
 ## About Me 😃
 An artificial intelligence student.
 Interested in how intelligent systems work, how they learn, think, and assist people in real-life situations. I believe Al is not just about technology, but about making life better, safer, and more human.
-I'm learning the main ideas behind Al and how machines can understand and support human goals. For me, Al is a way to connect humans and machines in a helpful and meaningful way.
-I believe that real intelligence, human or artificial, is most powerful when it's guided by kindness, ethics, and purpose. I'm here to grow, learn, and one day, make a positive impact in the field.
-I'm always looking for new learning opportunities and open to connecting with others who share the same passion for Al and technology.
+I'm learning the main ideas behind AI and how machines can understand and support human goals. For me, AI is a way to connect humans and machines in a helpful and meaningful way.
+Real intelligence, human or artificial, is most powerful when it's guided by kindness, ethics, and purpose. I'm here to grow, learn, and one day, make a positive impact in the field.
+I'm always looking for new learning opportunities and open to connecting with others who share the same passion for AI and technology.
 
 ---
 
