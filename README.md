@@ -19,8 +19,6 @@ I'm always looking for new learning opportunities and open to connecting with ot
 
 ## 📫 Find me here:
 
-## 📫 Find me here:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Mohamed-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-mohamed31/)  
 [![Email](https://img.shields.io/badge/Email-ahmedmohamed3184%40gmail.com-red?style=flat&logo=gmail)](mailto:ahmedmohamed3184@gmail.com)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-_ahmed_mohamed-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/_ahmed_mohamed)
